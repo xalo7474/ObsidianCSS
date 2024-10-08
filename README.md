@@ -1,6 +1,3 @@
-Here's an advanced and aesthetic `README.md` template for your Obsidian framework repository, incorporating markdown features, beautiful formatting, and a structured layout to enhance readability and engagement.
-
-```markdown
 # 🌑 Obsidian Framework
 
 **Obsidian** is a modern CSS framework designed for developers and designers who appreciate a sleek, dark-themed aesthetic.
